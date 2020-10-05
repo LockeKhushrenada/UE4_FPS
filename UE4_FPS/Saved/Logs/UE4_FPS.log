@@ -1726,3 +1726,1041 @@ myMovableEnemy
 [2020.10.04-17.27.09:272][577]LogOnline: OSS: Creating online subsystem instance for: :Context_24
 [2020.10.04-17.27.09:275][577]PIE: Server logged in
 [2020.10.04-17.27.09:275][577]PIE: Play in editor total start time 0.128 seconds.
+[2020.10.04-17.28.01:143][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.04-17.28.01:143][661]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.10.04-17.28.01:144][661]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.04-17.28.01:145][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.04-17.28.01:157][661]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.04-17.28.01:167][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.04-17.28.01:218][661]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.04-17.28.01:239][661]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D6922FEC00), frame # 321661
+[2020.10.04-17.28.01:239][661]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D6FF8CC800), frame # 321661
+[2020.10.04-17.28.01:243][661]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.10.04-17.28.01:286][662]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.10.04-17.28.05:326][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane3)
+[2020.10.04-17.29.12:537][476]Cmd: TRANSACTION UNDO
+[2020.10.04-17.29.12:537][476]LogEditorTransaction: Undo Replace component used material
+[2020.10.04-17.29.13:053][487]Cmd: TRANSACTION UNDO
+[2020.10.04-17.29.13:053][487]LogEditorTransaction: Undo Replace component used material
+[2020.10.04-17.29.14:376][564]Cmd: TRANSACTION UNDO
+[2020.10.04-17.29.14:376][564]LogEditorTransaction: Undo Replace component used material
+[2020.10.04-17.29.16:843][697]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.10.04-17.29.16:975][697]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/FirstPersonExampleMap37D672474825AA3AC478B3912B4F6630.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.10.04-17.29.17:830][697]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/FirstPersonExampleMap_BuiltDataE0136DCC4ECE56D6DFD39D98E29D4B66.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.10.04-17.29.17:886][697]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.04-17.29.17:886][697]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.10.04-17.29.17:886][697]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.10.04-17.29.46:208][940]LogSlate: Window 'myMovableEnemy' being destroyed
+[2020.10.04-17.29.46:213][940]LogSlate: Window 'myMovableEnemy' being destroyed
+[2020.10.04-17.29.47:803][940]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.10.04-17.29.47:803][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.04-17.30.06:668][940]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/myMovableEnemy.myMovableEnemy_C:ExecuteUbergraph_myMovableEnemy'!
+[2020.10.04-17.30.06:668][940]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.10.04-17.30.06:668][940]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.10.04-17.30.06:668][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.04-17.30.40:504][  1]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Start_Menu.Start_Menu
+[2020.10.04-17.30.43:567][  1]LogUObjectHash: Compacting FUObjectHashTables data took   6.74ms
+[2020.10.04-17.30.51:949][  1]LogSlate: Window 'Save Content' being destroyed
+[2020.10.04-17.30.51:986][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Over" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/Game_Over.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.04-17.30.53:422][  1]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2020.10.04-17.30.53:515][  1]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/Game_OverDD8EE0F546F79B93CB9B01884E2A21F7.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/Game_Over.umap'
+[2020.10.04-17.30.53:544][  1]LogFileHelpers: Saving map 'Game_Over' took 1.559
+[2020.10.04-17.30.53:544][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Start_Menu" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/Start_Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.04-17.30.53:677][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2020.10.04-17.30.53:705][  1]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/Start_Menu14CE8EA94BA2A3D2D78090BB0880A11E.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/Start_Menu.umap'
+[2020.10.04-17.30.53:707][  1]LogFileHelpers: Saving map 'Start_Menu' took 0.163
+[2020.10.04-17.30.53:728][  1]Cmd: MAP LOAD FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/Start_Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.04-17.30.53:755][  1]LightingResults: New page: Lighting Build
+[2020.10.04-17.30.53:833][  1]LoadErrors: New page: Loading map: Start_Menu.umap
+[2020.10.04-17.30.54:200][  1]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.04-17.30.54:243][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.04-17.30.54:259][  1]MapCheck: New page: Map Check
+[2020.10.04-17.30.54:259][  1]LightingResults: New page: Lighting Build
+[2020.10.04-17.30.55:386][  1]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D6015C7400), frame # 327001
+[2020.10.04-17.30.55:386][  1]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D61E172480), frame # 327001
+[2020.10.04-17.30.55:421][  1]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.10.04-17.30.56:158][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.10.04-17.30.56:208][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.10.04-17.30.56:293][  1]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.04-17.30.56:293][  1]LogAIModule: Creating AISystem for world Start_Menu
+[2020.10.04-17.30.56:293][  1]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D60189D200), frame # 327001
+[2020.10.04-17.30.56:316][  1]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D67D176700), frame # 327001
+[2020.10.04-17.30.56:465][  1]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.10.04-17.30.56:565][  1]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.04-17.30.56:567][  1]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.639ms to complete.
+[2020.10.04-17.30.56:567][  1]LogFileHelpers: Loading map 'Start_Menu' took 2.840
+[2020.10.04-17.30.56:836][  1]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.04-17.30.56:836][  1]LogContentValidation: Display: Validating World /Game/Game_Over.Game_Over
+[2020.10.04-17.30.56:892][  1]LogContentValidation: Display: Validating World /Game/Start_Menu.Start_Menu
+[2020.10.04-17.40.41:100][278]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.10.04-17.40.41:425][278]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Start_Menu' took 0.556
+[2020.10.04-17.40.41:427][278]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/WTitleScreen] ([1] browsable assets)...
+[2020.10.04-17.40.41:427][278]OBJ SavePackage: Finished generating thumbnails for package [/Game/WTitleScreen]
+[2020.10.04-17.40.41:427][278]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WTitleScreen" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/Autosaves/Game/WTitleScreen_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.10.04-17.40.41:720][278]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/WTitleScreen_Auto23E64E8E44403946F5254EFA72C91519B.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/Autosaves/Game/WTitleScreen_Auto2.uasset'
+[2020.10.04-17.40.41:721][278]LogFileHelpers: Auto-saving content packages took 0.295
+[2020.10.04-17.45.47:129][563]AssetReimport: New page: Outstanding source content changes 7:45:47 AM
+[2020.10.04-17.45.47:403][564]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/bepis-png-3-Images-PNG-Transparent.png)
+[2020.10.04-17.45.49:697][565]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/bepis-png-3-Images-PNG-Transparent" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/bepis-png-3-Images-PNG-Transparent.uasset" SILENT=true
+[2020.10.04-17.45.49:964][565]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/bepis-png-3-Images-PNG-Transpare58ECD8584E96B4C388E3409302351A4B.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/bepis-png-3-Images-PNG-Transparent.uasset'
+[2020.10.04-17.45.50:146][566]AssetCheck: New page: Asset Save: bepis-png-3-Images-PNG-Transparent
+[2020.10.04-17.45.50:146][566]LogContentValidation: Display: Validating Texture2D /Game/bepis-png-3-Images-PNG-Transparent.bepis-png-3-Images-PNG-Transparent
+[2020.10.04-17.45.52:989][700]AssetReimport: Importing new asset /Game/bepis-png-3-Images-PNG-Transparent.
+[2020.10.04-17.52.01:134][753]AssetReimport: New page: Outstanding source content changes 7:52:01 AM
+[2020.10.04-17.52.01:207][754]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/external-content.duckduckgo.com.png)
+[2020.10.04-17.52.01:608][755]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/external-content_duckduckgo_com" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/external-content_duckduckgo_com.uasset" SILENT=true
+[2020.10.04-17.52.01:620][755]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/external-content_duckduckgo_com8ABB915C448DA20187176FA1B782E6D1.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/external-content_duckduckgo_com.uasset'
+[2020.10.04-17.52.01:678][756]AssetCheck: New page: Asset Save: external-content_duckduckgo_com
+[2020.10.04-17.52.01:678][756]LogContentValidation: Display: Validating Texture2D /Game/external-content_duckduckgo_com.external-content_duckduckgo_com
+[2020.10.04-17.52.04:646][931]AssetReimport: Importing new asset /Game/external-content_duckduckgo_com.
+[2020.10.04-17.53.11:376][378]AssetReimport: New page: Outstanding source content changes 7:53:11 AM
+[2020.10.04-17.53.11:446][379]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/pep.png)
+[2020.10.04-17.53.11:963][380]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/pep" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/pep.uasset" SILENT=true
+[2020.10.04-17.53.12:118][380]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/pep0C2DFEF947A4296CE87C0AABA6CFB9DD.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/pep.uasset'
+[2020.10.04-17.53.12:180][381]AssetCheck: New page: Asset Save: pep
+[2020.10.04-17.53.12:180][381]LogContentValidation: Display: Validating Texture2D /Game/pep.pep
+[2020.10.04-17.53.15:157][551]AssetReimport: Importing new asset /Game/pep.
+[2020.10.04-17.53.22:661][975]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WTitleScreen.WTitleScreen
+[2020.10.04-19.14.50:587][888]LogUObjectHash: Compacting FUObjectHashTables data took  58.82ms
+[2020.10.04-19.14.50:784][888]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Start_Menu' took 5.140
+[2020.10.04-19.14.50:786][888]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/WTitleScreen] ([1] browsable assets)...
+[2020.10.04-19.14.50:786][888]OBJ SavePackage: Finished generating thumbnails for package [/Game/WTitleScreen]
+[2020.10.04-19.14.50:806][888]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WTitleScreen" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/Autosaves/Game/WTitleScreen_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.10.04-19.14.51:519][888]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/WTitleScreen_Auto39EF180B84659AFE93BD5FFB60CC14A5A.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/Autosaves/Game/WTitleScreen_Auto3.uasset'
+[2020.10.04-19.14.51:521][888]LogFileHelpers: Auto-saving content packages took 0.735
+[2020.10.04-19.20.29:663][584]LogEditorTransaction: Undo Move Widget
+[2020.10.04-19.20.31:594][650]LogEditorTransaction: Undo Edit Image
+[2020.10.04-19.22.22:002][405]LogSlate: Window 'Color Picker' being destroyed
+[2020.10.04-19.27.08:448][900]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2020.10.04-19.27.08:455][900]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Start_Menu' took 0.584
+[2020.10.04-19.27.08:458][900]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/WTitleScreen] ([1] browsable assets)...
+[2020.10.04-19.27.08:458][900]OBJ SavePackage: Finished generating thumbnails for package [/Game/WTitleScreen]
+[2020.10.04-19.27.08:458][900]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WTitleScreen" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/Autosaves/Game/WTitleScreen_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2020.10.04-19.27.08:677][900]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/WTitleScreen_Auto48C41A22D48EE0025BD4258926713B7B2.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/Autosaves/Game/WTitleScreen_Auto4.uasset'
+[2020.10.04-19.27.08:679][900]LogFileHelpers: Auto-saving content packages took 0.222
+[2020.10.04-19.37.09:007][819]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2020.10.04-19.37.09:010][819]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Start_Menu' took 0.034
+[2020.10.04-19.37.09:010][819]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/WTitleScreen] ([1] browsable assets)...
+[2020.10.04-19.37.09:010][819]OBJ SavePackage: Finished generating thumbnails for package [/Game/WTitleScreen]
+[2020.10.04-19.37.09:010][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WTitleScreen" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/Autosaves/Game/WTitleScreen_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.10.04-19.37.09:149][819]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/WTitleScreen_Auto576EF9AF54580E82947972EBEB947EB27.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/Autosaves/Game/WTitleScreen_Auto5.uasset'
+[2020.10.04-19.37.09:152][819]LogFileHelpers: Auto-saving content packages took 0.142
+[2020.10.04-20.00.11:529][475]LogSlate: Took 0.386705 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.10.04-20.01.09:494][870]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2020.10.04-20.01.09:498][870]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Start_Menu' took 0.046
+[2020.10.04-20.01.09:498][870]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/WTitleScreen] ([1] browsable assets)...
+[2020.10.04-20.01.09:498][870]OBJ SavePackage: Finished generating thumbnails for package [/Game/WTitleScreen]
+[2020.10.04-20.01.09:498][870]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WTitleScreen" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/Autosaves/Game/WTitleScreen_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2020.10.04-20.01.09:604][870]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/WTitleScreen_Auto6DD1B724944C62339D8E01E9801F3CEF5.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/Autosaves/Game/WTitleScreen_Auto6.uasset'
+[2020.10.04-20.01.09:674][870]LogFileHelpers: Auto-saving content packages took 0.177
+[2020.10.04-20.36.11:194][537]LogUObjectHash: Compacting FUObjectHashTables data took   7.93ms
+[2020.10.04-20.36.11:542][537]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Start_Menu' took 0.673
+[2020.10.04-20.36.11:544][537]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/WTitleScreen] ([1] browsable assets)...
+[2020.10.04-20.36.11:544][537]OBJ SavePackage: Finished generating thumbnails for package [/Game/WTitleScreen]
+[2020.10.04-20.36.11:544][537]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WTitleScreen" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/Autosaves/Game/WTitleScreen_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2020.10.04-20.36.12:255][537]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/WTitleScreen_Auto75758320C4BFE34AC3A51A6A69FF837A2.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/Autosaves/Game/WTitleScreen_Auto7.uasset'
+[2020.10.04-20.36.12:256][537]LogFileHelpers: Auto-saving content packages took 0.712
+[2020.10.04-21.37.15:174][509]BlueprintLog: New page: Compile WTitleScreen
+[2020.10.04-21.37.17:270][509]LogUObjectHash: Compacting FUObjectHashTables data took  28.56ms
+[2020.10.04-21.37.21:869][527]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WTitleScreen" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/WTitleScreen.uasset" SILENT=true
+[2020.10.04-21.37.22:566][527]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/WTitleScreen6AB50E2F459342B0BB62548438C98655.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/WTitleScreen.uasset'
+[2020.10.04-21.37.24:041][527]AssetCheck: New page: Asset Save: WTitleScreen
+[2020.10.04-21.37.24:134][527]LogContentValidation: Display: Validating WidgetBlueprint /Game/WTitleScreen.WTitleScreen
+[2020.10.04-21.38.25:067][990]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.10.04-21.38.25:077][990]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Start_Menu' took 0.367
+[2020.10.04-21.38.25:079][990]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/WTitleScreen] ([1] browsable assets)...
+[2020.10.04-21.38.25:079][990]OBJ SavePackage: Finished generating thumbnails for package [/Game/WTitleScreen]
+[2020.10.04-21.38.25:079][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WTitleScreen" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/Autosaves/Game/WTitleScreen_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2020.10.04-21.38.25:747][990]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/WTitleScreen_Auto8321608DD426DC1B54F3C2DB03D17CFE9.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/Autosaves/Game/WTitleScreen_Auto8.uasset'
+[2020.10.04-21.38.25:748][990]LogFileHelpers: Auto-saving content packages took 0.670
+[2020.10.04-21.38.40:265][617]BlueprintLog: New page: Compile WTitleScreen
+[2020.10.04-21.38.40:354][617]LogUObjectHash: Compacting FUObjectHashTables data took   6.86ms
+[2020.10.04-21.38.42:339][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WTitleScreen" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/WTitleScreen.uasset" SILENT=true
+[2020.10.04-21.38.42:785][670]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/WTitleScreenC64A9B3649154088A7BE83B8C8A0D241.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/WTitleScreen.uasset'
+[2020.10.04-21.38.42:826][670]AssetCheck: New page: Asset Save: WTitleScreen
+[2020.10.04-21.38.42:826][670]LogContentValidation: Display: Validating WidgetBlueprint /Game/WTitleScreen.WTitleScreen
+[2020.10.04-21.54.36:212][411]BlueprintLog: New page: Compile WTitleScreen
+[2020.10.04-21.54.36:562][411]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.10.04-21.54.37:776][444]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WTitleScreen" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/WTitleScreen.uasset" SILENT=true
+[2020.10.04-21.54.38:587][444]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/WTitleScreen8B3B791645DE7283DB0E31823E4A2177.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/WTitleScreen.uasset'
+[2020.10.04-21.54.38:692][444]AssetCheck: New page: Asset Save: WTitleScreen
+[2020.10.04-21.54.38:692][444]LogContentValidation: Display: Validating WidgetBlueprint /Game/WTitleScreen.WTitleScreen
+[2020.10.04-21.55.03:460][448]BlueprintLog: New page: Compile WTitleScreen
+[2020.10.04-21.55.04:045][448]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.10.04-21.55.04:864][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WTitleScreen" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/WTitleScreen.uasset" SILENT=true
+[2020.10.04-21.55.05:272][472]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/WTitleScreenA5E2CA67478B8974A2769490BF3D4ACC.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/WTitleScreen.uasset'
+[2020.10.04-21.55.05:293][472]AssetCheck: New page: Asset Save: WTitleScreen
+[2020.10.04-21.55.05:293][472]LogContentValidation: Display: Validating WidgetBlueprint /Game/WTitleScreen.WTitleScreen
+[2020.10.04-21.57.29:600][342]BlueprintLog: New page: Compile WTitleScreen
+[2020.10.04-21.57.31:245][342]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.10.04-21.57.32:577][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WTitleScreen" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/WTitleScreen.uasset" SILENT=true
+[2020.10.04-21.57.33:171][360]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/WTitleScreenEFD6B58A4B4121E2DBFDDA80C069B054.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/WTitleScreen.uasset'
+[2020.10.04-21.57.33:202][360]AssetCheck: New page: Asset Save: WTitleScreen
+[2020.10.04-21.57.33:202][360]LogContentValidation: Display: Validating WidgetBlueprint /Game/WTitleScreen.WTitleScreen
+[2020.10.04-22.01.04:938][489]BlueprintLog: New page: Compile WTitleScreen
+[2020.10.04-22.01.05:290][489]LogUObjectHash: Compacting FUObjectHashTables data took  39.28ms
+[2020.10.04-22.01.07:702][597]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WTitleScreen" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/WTitleScreen.uasset" SILENT=true
+[2020.10.04-22.01.08:255][597]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/WTitleScreen691131C34DA8F41829833BBF50CBDB65.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/WTitleScreen.uasset'
+[2020.10.04-22.01.08:317][597]AssetCheck: New page: Asset Save: WTitleScreen
+[2020.10.04-22.01.08:317][597]LogContentValidation: Display: Validating WidgetBlueprint /Game/WTitleScreen.WTitleScreen
+[2020.10.04-22.08.38:073][ 30]BlueprintLog: New page: Compile WTitleScreen
+[2020.10.04-22.08.38:319][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2020.10.04-22.08.39:101][ 56]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WTitleScreen" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/WTitleScreen.uasset" SILENT=true
+[2020.10.04-22.08.39:669][ 56]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/WTitleScreen84ED10314DECA96ADD5DBB9A554A89DF.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/WTitleScreen.uasset'
+[2020.10.04-22.08.39:721][ 56]AssetCheck: New page: Asset Save: WTitleScreen
+[2020.10.04-22.08.39:721][ 56]LogContentValidation: Display: Validating WidgetBlueprint /Game/WTitleScreen.WTitleScreen
+[2020.10.04-22.09.19:060][250]LogTemp: Resetting audio stream to device id 
+[2020.10.04-22.09.21:457][250]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.04-22.09.21:457][250]LogAudioMixer: Display: 1: FrontRight
+[2020.10.04-22.09.22:381][251]LogTemp: Resetting audio stream to device id 
+[2020.10.04-22.09.22:404][251]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.04-22.09.22:404][251]LogAudioMixer: Display: 1: FrontRight
+[2020.10.04-22.44.10:231][292]LogHttp: Warning: 000001D6B442B900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3578978B-4490-190B-81BE-A5850F48CBB6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=772233ee40a0d25d40b733aa31ae8142%7C85f0439187e548f8958ec15d240962c6%7C06a802ca-87cf-4e6e-9237-6df3a676df23&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.10.04-22.44.10:231][292]LogHttp: Warning: 000001D6B442B900: request failed, libcurl error: 28 (Timeout was reached)
+[2020.10.04-22.44.10:231][292]LogHttp: Warning: 000001D6B442B900: libcurl info message cache 0 (Connection 304 seems to be dead!)
+[2020.10.04-22.44.10:231][292]LogHttp: Warning: 000001D6B442B900: libcurl info message cache 1 (Closing connection 304)
+[2020.10.04-22.44.10:231][292]LogHttp: Warning: 000001D6B442B900: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.10.04-22.44.10:231][292]LogHttp: Warning: 000001D6B442B900: libcurl info message cache 3 (  Trying 34.224.43.49...)
+[2020.10.04-22.44.10:231][292]LogHttp: Warning: 000001D6B442B900: libcurl info message cache 4 (TCP_NODELAY set)
+[2020.10.04-22.44.10:231][292]LogHttp: Warning: 000001D6B442B900: libcurl info message cache 5 (Connection timed out after 2072438 milliseconds)
+[2020.10.04-22.44.10:231][292]LogHttp: Warning: 000001D6B442B900: libcurl info message cache 6 (Closing connection 305)
+[2020.10.04-22.44.13:658][292]LogTemp: Resetting audio stream to device id 
+[2020.10.04-22.44.13:685][292]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.04-22.44.13:685][292]LogAudioMixer: Display: 1: FrontRight
+[2020.10.04-22.44.13:862][293]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B3578978B-4490-190B-81BE-A5850F48CBB6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=772233ee40a0d25d40b733aa31ae8142%7C85f0439187e548f8958ec15d240962c6%7C06a802ca-87cf-4e6e-9237-6df3a676df23&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2020.10.04-23.00.31:409][491]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Start_Menu.Start_Menu:PersistentLevel.Start_Menu
+[2020.10.04-23.02.51:736][135]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.04-23.05.20:278][304]BlueprintLog: New page: Compile Start_Menu
+[2020.10.04-23.05.20:446][304]LogUObjectHash: Compacting FUObjectHashTables data took   8.46ms
+[2020.10.04-23.05.21:581][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Start_Menu" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/Start_Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.04-23.05.21:699][339]LogUObjectHash: Compacting FUObjectHashTables data took   5.51ms
+[2020.10.04-23.05.22:172][339]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/Start_Menu66B1866044684254FED1CBA45A21C844.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/Start_Menu.umap'
+[2020.10.04-23.05.22:537][339]LogFileHelpers: Saving map 'Start_Menu' took 0.993
+[2020.10.04-23.05.22:579][339]AssetCheck: New page: Asset Save: Start_Menu
+[2020.10.04-23.05.22:580][339]LogContentValidation: Display: Validating World /Game/Start_Menu.Start_Menu
+[2020.10.04-23.26.48:960][849]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2020.10.04-23.26.49:018][849]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Start_Menu' took 0.404
+[2020.10.04-23.26.49:172][849]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/WTitleScreen] ([1] browsable assets)...
+[2020.10.04-23.26.49:172][849]OBJ SavePackage: Finished generating thumbnails for package [/Game/WTitleScreen]
+[2020.10.04-23.26.49:172][849]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WTitleScreen" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/Autosaves/Game/WTitleScreen_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2020.10.04-23.26.50:098][849]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/WTitleScreen_Auto91E66DDAF4BF2A472AAF253B5007D35B1.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/Autosaves/Game/WTitleScreen_Auto9.uasset'
+[2020.10.04-23.26.50:138][849]LogFileHelpers: Auto-saving content packages took 0.989
+[2020.10.04-23.40.30:425][490]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.10.04-23.40.30:481][490]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Start_Menu' took 0.147
+[2020.10.04-23.40.30:482][490]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/WTitleScreen] ([1] browsable assets)...
+[2020.10.04-23.40.30:482][490]OBJ SavePackage: Finished generating thumbnails for package [/Game/WTitleScreen]
+[2020.10.04-23.40.30:482][490]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WTitleScreen" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/Autosaves/Game/WTitleScreen_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2020.10.04-23.40.31:480][490]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/WTitleScreen_Auto0DB12EEFB45BF3E311EA943BD6329E93C.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/Autosaves/Game/WTitleScreen_Auto0.uasset'
+[2020.10.04-23.40.31:483][490]LogFileHelpers: Auto-saving content packages took 1.002
+[2020.10.04-23.45.02:205][435]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WTitleScreen" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/WTitleScreen.uasset" SILENT=true
+[2020.10.04-23.45.03:028][435]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/WTitleScreen369DA954472DB8A12957B39A5A6DA09E.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/WTitleScreen.uasset'
+[2020.10.04-23.45.03:144][435]AssetCheck: New page: Asset Save: WTitleScreen
+[2020.10.04-23.45.03:144][435]LogContentValidation: Display: Validating WidgetBlueprint /Game/WTitleScreen.WTitleScreen
+[2020.10.04-23.45.06:143][564]BlueprintLog: New page: Compile WTitleScreen
+[2020.10.04-23.45.06:528][564]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.10.04-23.45.07:833][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WTitleScreen" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/WTitleScreen.uasset" SILENT=true
+[2020.10.04-23.45.08:255][589]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/WTitleScreen252B9C21451A6EB87D79E08752736712.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/WTitleScreen.uasset'
+[2020.10.04-23.45.08:275][589]AssetCheck: New page: Asset Save: WTitleScreen
+[2020.10.04-23.45.08:275][589]LogContentValidation: Display: Validating WidgetBlueprint /Game/WTitleScreen.WTitleScreen
+[2020.10.04-23.45.50:532][257]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.04-23.45.51:427][257]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.04-23.45.51:456][257]PIE: New page: PIE session: Start_Menu (Oct 4, 2020, 1:45:51 PM)
+[2020.10.04-23.45.51:917][257]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Start_Menu
+[2020.10.04-23.45.52:265][257]LogPlayLevel: PIE: StaticDuplicateObject took: (0.281442s)
+[2020.10.04-23.45.52:987][257]LogAIModule: Creating AISystem for world Start_Menu
+[2020.10.04-23.45.53:049][257]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D6BDD58C00), frame # 450257
+[2020.10.04-23.45.53:228][257]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D72D04E840), frame # 450257
+[2020.10.04-23.45.53:308][257]LogPlayLevel: PIE: World Init took: (1.043483s)
+[2020.10.04-23.45.53:360][257]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Start_Menu.Start_Menu to /Game/UEDPIE_0_Start_Menu.Start_Menu (1.442294s)
+[2020.10.04-23.45.53:538][257]LogUObjectHash: Compacting FUObjectHashTables data took   7.65ms
+[2020.10.04-23.45.53:620][257]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.04-23.45.53:620][257]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.04-23.45.53:620][257]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.04-23.45.53:620][257]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.04-23.45.53:620][257]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.04-23.45.53:620][257]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.04-23.45.53:620][257]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.04-23.45.53:622][257]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.04-23.45.53:747][257]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.04-23.45.53:747][257]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.04-23.45.53:914][257]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.04-23.45.53:914][257]LogAudioMixer: Display: 1: FrontRight
+[2020.10.04-23.45.54:003][257]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.10.04-23.45.54:404][257]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.04-23.45.54:405][257]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.04-23.45.54:481][257]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.04-23.45.54:861][257]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.04-23.45.54:903][257]LogInit: FAudioDevice initialized.
+[2020.10.04-23.45.57:390][257]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.10.04-23.45.57:556][257]LogWorld: Bringing World /Game/UEDPIE_0_Start_Menu.Start_Menu up for play (max tick rate 60) at 2020.10.04-18.45.57
+[2020.10.04-23.45.57:660][257]LogWorld: Bringing up level for play took: 0.119511
+[2020.10.04-23.45.58:170][257]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2020.10.04-23.46.00:001][257]PIE: Server logged in
+[2020.10.04-23.46.00:042][257]PIE: Play in editor total start time 9.037 seconds.
+[2020.10.04-23.46.16:865][ 64]LogNet: Browse: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2020.10.04-23.46.16:933][ 64]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2020.10.04-23.46.16:933][ 64]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Start_Menu
+[2020.10.04-23.46.17:179][ 64]LogWorld: UWorld::CleanupWorld for Start_Menu, bSessionEnded=true, bCleanupResources=true
+[2020.10.04-23.46.17:229][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.04-23.46.18:157][ 64]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D72D04E840), frame # 451064
+[2020.10.04-23.46.18:158][ 64]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D6BDD58C00), frame # 451064
+[2020.10.04-23.46.18:227][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.10.04-23.46.18:375][ 64]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.10.04-23.46.19:226][ 64]LogPlayLevel: PIE: StaticDuplicateObject took: (0.851725s)
+[2020.10.04-23.46.19:227][ 64]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.10.04-23.46.19:227][ 64]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D6BDD58C00), frame # 451064
+[2020.10.04-23.46.19:227][ 64]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D72F74B100), frame # 451064
+[2020.10.04-23.46.19:228][ 64]LogPlayLevel: PIE: World Init took: (0.001207s)
+[2020.10.04-23.46.19:271][ 64]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.896426s)
+[2020.10.04-23.46.19:271][ 64]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.10.04-23.46.19:456][ 64]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.10.04-18.46.19
+[2020.10.04-23.46.19:536][ 64]LogWorld: Bringing up level for play took: 0.262401
+[2020.10.04-23.46.20:211][ 64]LogLoad: Took 3.279351 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap)
+[2020.10.04-23.46.21:305][ 65]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.073785 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_1', movement 'Walking'
+[2020.10.04-23.46.25:784][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.04-23.46.25:785][246]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.10.04-23.46.25:802][246]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.04-23.46.25:803][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.04-23.46.26:014][246]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.04-23.46.26:081][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.04-23.46.26:603][246]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.04-23.46.26:644][246]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D72F74B100), frame # 451246
+[2020.10.04-23.46.26:644][246]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D6BDD58C00), frame # 451246
+[2020.10.04-23.46.26:767][246]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2020.10.04-23.46.27:168][247]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2020.10.04-23.47.21:562][289]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Game_Over.Game_Over
+[2020.10.04-23.47.21:884][289]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2020.10.04-23.47.22:264][289]Cmd: MAP LOAD FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/Game_Over.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.04-23.47.22:320][289]LightingResults: New page: Lighting Build
+[2020.10.04-23.47.22:399][289]LoadErrors: New page: Loading map: Game_Over.umap
+[2020.10.04-23.47.22:646][289]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.10.04-23.47.22:646][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.04-23.47.23:249][289]LogWorld: UWorld::CleanupWorld for Start_Menu, bSessionEnded=true, bCleanupResources=true
+[2020.10.04-23.47.23:249][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.04-23.47.23:250][289]MapCheck: New page: Map Check
+[2020.10.04-23.47.23:250][289]LightingResults: New page: Lighting Build
+[2020.10.04-23.47.23:941][289]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D67D176700), frame # 453289
+[2020.10.04-23.47.23:942][289]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D60189D200), frame # 453289
+[2020.10.04-23.47.23:946][289]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2020.10.04-23.47.25:612][289]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.10.04-23.47.25:912][289]LogUObjectHash: Compacting FUObjectHashTables data took   5.89ms
+[2020.10.04-23.47.26:156][289]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2020.10.04-23.47.26:156][289]LogAIModule: Creating AISystem for world Game_Over
+[2020.10.04-23.47.26:177][289]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D6B4F24800), frame # 453289
+[2020.10.04-23.47.26:201][289]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D72F74A700), frame # 453289
+[2020.10.04-23.47.26:263][289]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2020.10.04-23.47.26:503][289]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.04-23.47.26:505][289]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.793ms to complete.
+[2020.10.04-23.47.26:505][289]LogFileHelpers: Loading map 'Game_Over' took 4.272
+[2020.10.04-23.56.39:887][475]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WEndScreen.WEndScreen
+[2020.10.04-23.57.21:793][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.10.04-23.57.21:796][ 74]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Game_Over' took 0.060
+[2020.10.04-23.57.21:796][ 74]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/WEndScreen] ([1] browsable assets)...
+[2020.10.04-23.57.21:796][ 74]OBJ SavePackage: Finished generating thumbnails for package [/Game/WEndScreen]
+[2020.10.04-23.57.21:796][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WEndScreen" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/Autosaves/Game/WEndScreen_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.10.04-23.57.21:854][ 74]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/WEndScreen_Auto116257FE24263683A104E36ACD8C95C07.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/Autosaves/Game/WEndScreen_Auto1.uasset'
+[2020.10.04-23.57.21:855][ 74]LogFileHelpers: Auto-saving content packages took 0.059
+[2020.10.04-23.58.27:488][339]AssetReimport: New page: Outstanding source content changes 1:58:27 PM
+[2020.10.04-23.58.27:815][340]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/gamestart.png)
+[2020.10.04-23.58.28:770][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gamestart" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/gamestart.uasset" SILENT=true
+[2020.10.04-23.58.28:894][341]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/gamestartE5B073EB46A2B47C636E939D150EE75B.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/gamestart.uasset'
+[2020.10.04-23.58.29:131][342]AssetCheck: New page: Asset Save: gamestart
+[2020.10.04-23.58.29:131][342]LogContentValidation: Display: Validating Texture2D /Game/gamestart.gamestart
+[2020.10.04-23.58.31:983][438]AssetReimport: Importing new asset /Game/gamestart.
+[2020.10.04-23.59.29:701][980]BlueprintLog: New page: Compile WTitleScreen
+[2020.10.04-23.59.30:041][980]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2020.10.04-23.59.34:823][200]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.04-23.59.34:844][200]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.04-23.59.34:844][200]PIE: New page: PIE session: Game_Over (Oct 4, 2020, 1:59:34 PM)
+[2020.10.04-23.59.34:880][200]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Game_Over
+[2020.10.04-23.59.34:881][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000944s)
+[2020.10.04-23.59.34:882][200]LogAIModule: Creating AISystem for world Game_Over
+[2020.10.04-23.59.34:882][200]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D6DBAF0200), frame # 461200
+[2020.10.04-23.59.34:882][200]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D62D4C2C00), frame # 461200
+[2020.10.04-23.59.34:882][200]LogPlayLevel: PIE: World Init took: (0.001134s)
+[2020.10.04-23.59.34:882][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Game_Over.Game_Over to /Game/UEDPIE_0_Game_Over.Game_Over (0.002228s)
+[2020.10.04-23.59.34:913][200]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.10.04-23.59.34:932][200]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.04-23.59.34:932][200]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.04-23.59.34:932][200]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.04-23.59.34:932][200]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.04-23.59.34:932][200]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.04-23.59.34:932][200]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.04-23.59.34:932][200]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.04-23.59.34:932][200]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.04-23.59.34:933][200]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.04-23.59.34:933][200]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.04-23.59.34:935][200]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.04-23.59.34:935][200]LogAudioMixer: Display: 1: FrontRight
+[2020.10.04-23.59.34:959][200]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.10.04-23.59.34:959][200]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.04-23.59.34:959][200]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.04-23.59.34:959][200]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.04-23.59.34:960][200]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.04-23.59.35:060][200]LogInit: FAudioDevice initialized.
+[2020.10.04-23.59.35:071][200]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.10.04-23.59.35:073][200]LogWorld: Bringing World /Game/UEDPIE_0_Game_Over.Game_Over up for play (max tick rate 60) at 2020.10.04-18.59.35
+[2020.10.04-23.59.35:073][200]LogWorld: Bringing up level for play took: 0.000474
+[2020.10.04-23.59.35:074][200]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2020.10.04-23.59.35:080][200]PIE: Server logged in
+[2020.10.04-23.59.35:081][200]PIE: Play in editor total start time 0.238 seconds.
+[2020.10.04-23.59.49:642][  4]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Start_Menu.Start_Menu
+[2020.10.04-23.59.49:676][  4]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.10.04-23.59.56:505][  4]LogSlate: Window 'Save Content' being destroyed
+[2020.10.04-23.59.56:515][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WEndScreen" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/WEndScreen.uasset" SILENT=true
+[2020.10.04-23.59.56:845][  4]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/WEndScreenCEFB4965489765013DF912A6AD9A681A.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/WEndScreen.uasset'
+[2020.10.04-23.59.56:849][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WTitleScreen" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/WTitleScreen.uasset" SILENT=true
+[2020.10.04-23.59.56:992][  4]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/WTitleScreen1DDB85AA4E3F5CE247D1E380C67D22C6.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/WTitleScreen.uasset'
+[2020.10.05-00.00.00:826][  4]LogSlate: Window 'Message' being destroyed
+[2020.10.05-00.00.00:857][  4]Message dialog closed, result: Yes, title: Message, text: This action will terminate your Play In Editor session.  Continue?
+[2020.10.05-00.00.00:859][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.05-00.00.00:859][  4]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game_Over
+[2020.10.05-00.00.00:859][  4]LogWorld: UWorld::CleanupWorld for Game_Over, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.00.00:860][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.00.00:871][  4]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.05-00.00.00:877][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.00.01:009][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.05-00.00.01:010][  4]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D62D4C2C00), frame # 462004
+[2020.10.05-00.00.01:010][  4]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D6DBAF0200), frame # 462004
+[2020.10.05-00.00.01:014][  4]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2020.10.05-00.00.01:199][  4]Cmd: MAP LOAD FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/Start_Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.05-00.00.01:329][  4]LightingResults: New page: Lighting Build
+[2020.10.05-00.00.01:330][  4]LoadErrors: New page: Loading map: Start_Menu.umap
+[2020.10.05-00.00.01:330][  4]LogWorld: UWorld::CleanupWorld for Game_Over, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.00.01:330][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.00.01:330][  4]MapCheck: New page: Map Check
+[2020.10.05-00.00.01:330][  4]LightingResults: New page: Lighting Build
+[2020.10.05-00.00.01:710][  4]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D72F74A700), frame # 462004
+[2020.10.05-00.00.01:710][  4]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D6B4F24800), frame # 462004
+[2020.10.05-00.00.01:717][  4]LogUObjectHash: Compacting FUObjectHashTables data took   6.50ms
+[2020.10.05-00.00.01:978][  4]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.05-00.00.01:978][  4]LogAIModule: Creating AISystem for world Start_Menu
+[2020.10.05-00.00.01:978][  4]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D619A14600), frame # 462004
+[2020.10.05-00.00.01:978][  4]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D62D7A0CC0), frame # 462004
+[2020.10.05-00.00.02:033][  4]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2020.10.05-00.00.02:243][  4]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.05-00.00.02:244][  4]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.235ms to complete.
+[2020.10.05-00.00.02:244][  4]LogFileHelpers: Loading map 'Start_Menu' took 5.249
+[2020.10.05-00.00.02:308][  4]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.05-00.00.02:308][  4]LogContentValidation: Display: Validating WidgetBlueprint /Game/WEndScreen.WEndScreen
+[2020.10.05-00.00.02:308][  4]LogContentValidation: Display: Validating WidgetBlueprint /Game/WTitleScreen.WTitleScreen
+[2020.10.05-00.00.02:358][  5]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.10.05-00.00.08:166][313]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.05-00.00.08:188][313]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.05-00.00.08:188][313]PIE: New page: PIE session: Start_Menu (Oct 4, 2020, 2:00:08 PM)
+[2020.10.05-00.00.08:188][313]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Start_Menu
+[2020.10.05-00.00.08:190][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001834s)
+[2020.10.05-00.00.08:191][313]LogAIModule: Creating AISystem for world Start_Menu
+[2020.10.05-00.00.08:191][313]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D6A85EB200), frame # 462313
+[2020.10.05-00.00.08:191][313]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D6F4EDD580), frame # 462313
+[2020.10.05-00.00.08:191][313]LogPlayLevel: PIE: World Init took: (0.001216s)
+[2020.10.05-00.00.08:192][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Start_Menu.Start_Menu to /Game/UEDPIE_0_Start_Menu.Start_Menu (0.003219s)
+[2020.10.05-00.00.08:333][313]LogUObjectHash: Compacting FUObjectHashTables data took  54.36ms
+[2020.10.05-00.00.08:505][313]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.05-00.00.08:505][313]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.05-00.00.08:505][313]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.05-00.00.08:505][313]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.05-00.00.08:505][313]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.05-00.00.08:505][313]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.05-00.00.08:505][313]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.05-00.00.08:505][313]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.05-00.00.08:506][313]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.05-00.00.08:506][313]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.05-00.00.08:510][313]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.05-00.00.08:510][313]LogAudioMixer: Display: 1: FrontRight
+[2020.10.05-00.00.08:533][313]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.10.05-00.00.08:585][313]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.05-00.00.08:585][313]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.05-00.00.08:585][313]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.05-00.00.08:610][313]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.05-00.00.08:611][313]LogInit: FAudioDevice initialized.
+[2020.10.05-00.00.08:618][313]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.10.05-00.00.08:620][313]LogWorld: Bringing World /Game/UEDPIE_0_Start_Menu.Start_Menu up for play (max tick rate 60) at 2020.10.04-19.00.08
+[2020.10.05-00.00.08:620][313]LogWorld: Bringing up level for play took: 0.000280
+[2020.10.05-00.00.08:620][313]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2020.10.05-00.00.08:624][313]PIE: Server logged in
+[2020.10.05-00.00.08:625][313]PIE: Play in editor total start time 0.437 seconds.
+[2020.10.05-00.00.13:931][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.05-00.00.13:931][619]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Start_Menu
+[2020.10.05-00.00.13:931][619]LogWorld: UWorld::CleanupWorld for Start_Menu, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.00.13:931][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.00.13:942][619]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.05-00.00.13:947][619]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.00.14:052][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.05-00.00.14:053][619]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D6F4EDD580), frame # 462619
+[2020.10.05-00.00.14:053][619]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D6A85EB200), frame # 462619
+[2020.10.05-00.00.14:056][619]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.10.05-00.00.14:080][620]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2020.10.05-00.00.18:891][878]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Game_Over.Game_Over
+[2020.10.05-00.00.18:922][878]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.10.05-00.00.18:934][878]Cmd: MAP LOAD FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/Game_Over.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.05-00.00.18:934][878]LightingResults: New page: Lighting Build
+[2020.10.05-00.00.18:934][878]LoadErrors: New page: Loading map: Game_Over.umap
+[2020.10.05-00.00.18:934][878]LogWorld: UWorld::CleanupWorld for Start_Menu, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.00.18:934][878]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.00.18:935][878]MapCheck: New page: Map Check
+[2020.10.05-00.00.18:962][878]LightingResults: New page: Lighting Build
+[2020.10.05-00.00.18:988][878]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D62D7A0CC0), frame # 462878
+[2020.10.05-00.00.18:988][878]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D619A14600), frame # 462878
+[2020.10.05-00.00.18:991][878]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.10.05-00.00.18:993][878]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.05-00.00.18:993][878]LogAIModule: Creating AISystem for world Game_Over
+[2020.10.05-00.00.18:993][878]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D6A7C75400), frame # 462878
+[2020.10.05-00.00.18:993][878]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D62D4DEAC0), frame # 462878
+[2020.10.05-00.00.19:025][878]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.10.05-00.00.19:052][878]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.05-00.00.19:052][878]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.133ms to complete.
+[2020.10.05-00.00.19:052][878]LogFileHelpers: Loading map 'Game_Over' took 0.119
+[2020.10.05-00.28.26:782][265]AssetReimport: New page: Outstanding source content changes 2:28:26 PM
+[2020.10.05-00.28.26:934][266]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:/Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/gameover.jpg)
+[2020.10.05-00.28.28:316][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/gameover" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/gameover.uasset" SILENT=true
+[2020.10.05-00.28.28:685][267]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/gameover8CCF0E6F4BF841508A4EFF8A6DE9E50D.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/gameover.uasset'
+[2020.10.05-00.28.28:800][268]AssetCheck: New page: Asset Save: gameover
+[2020.10.05-00.28.28:800][268]LogContentValidation: Display: Validating Texture2D /Game/gameover.gameover
+[2020.10.05-00.28.31:710][400]AssetReimport: Importing new asset /Game/gameover.
+[2020.10.05-00.29.49:289][651]LogEditorTransaction: Undo Add Widget
+[2020.10.05-00.32.59:282][931]BlueprintLog: New page: Compile WEndScreen
+[2020.10.05-00.32.59:498][931]LogUObjectHash: Compacting FUObjectHashTables data took   7.37ms
+[2020.10.05-00.33.05:734][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WEndScreen" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/WEndScreen.uasset" SILENT=true
+[2020.10.05-00.33.06:289][191]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/WEndScreen5E80D072483F644E6C8FFF96E0FDB654.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/WEndScreen.uasset'
+[2020.10.05-00.33.06:308][191]AssetCheck: New page: Asset Save: WEndScreen
+[2020.10.05-00.33.06:308][191]LogContentValidation: Display: Validating WidgetBlueprint /Game/WEndScreen.WEndScreen
+[2020.10.05-00.33.42:854][905]BlueprintLog: New page: Compile WEndScreen
+[2020.10.05-00.33.42:905][905]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.10.05-00.33.49:701][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WEndScreen" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/WEndScreen.uasset" SILENT=true
+[2020.10.05-00.33.50:221][257]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/WEndScreen7EC99AA54156BF8045E366B4706324BE.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/WEndScreen.uasset'
+[2020.10.05-00.33.50:245][257]AssetCheck: New page: Asset Save: WEndScreen
+[2020.10.05-00.33.50:245][257]LogContentValidation: Display: Validating WidgetBlueprint /Game/WEndScreen.WEndScreen
+[2020.10.05-00.34.51:814][246]BlueprintLog: New page: Compile WEndScreen
+[2020.10.05-00.34.51:871][246]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.10.05-00.34.53:480][323]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WEndScreen" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/WEndScreen.uasset" SILENT=true
+[2020.10.05-00.34.53:890][323]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/WEndScreenD90BC0204B4A785EDD4FB19B180D03DE.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/WEndScreen.uasset'
+[2020.10.05-00.34.53:915][323]AssetCheck: New page: Asset Save: WEndScreen
+[2020.10.05-00.34.53:915][323]LogContentValidation: Display: Validating WidgetBlueprint /Game/WEndScreen.WEndScreen
+[2020.10.05-00.35.51:451][244]BlueprintLog: New page: Compile WEndScreen
+[2020.10.05-00.35.51:522][244]LogUObjectHash: Compacting FUObjectHashTables data took  22.23ms
+[2020.10.05-00.35.52:895][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WEndScreen" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/WEndScreen.uasset" SILENT=true
+[2020.10.05-00.35.53:485][298]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/WEndScreen3E31A931433567915825DEACE290ADAA.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/WEndScreen.uasset'
+[2020.10.05-00.35.53:542][298]AssetCheck: New page: Asset Save: WEndScreen
+[2020.10.05-00.35.53:542][298]LogContentValidation: Display: Validating WidgetBlueprint /Game/WEndScreen.WEndScreen
+[2020.10.05-00.37.17:554][632]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.10.05-00.37.17:598][632]LogUObjectHash: Compacting FUObjectHashTables data took   6.62ms
+[2020.10.05-00.37.17:827][632]Cmd: MAP LOAD FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.05-00.37.17:828][632]LightingResults: New page: Lighting Build
+[2020.10.05-00.37.17:829][632]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2020.10.05-00.37.17:830][632]LogWorld: UWorld::CleanupWorld for Game_Over, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.37.17:830][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.37.17:830][632]MapCheck: New page: Map Check
+[2020.10.05-00.37.17:830][632]LightingResults: New page: Lighting Build
+[2020.10.05-00.37.17:867][632]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D62D4DEAC0), frame # 495632
+[2020.10.05-00.37.17:867][632]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D6A7C75400), frame # 495632
+[2020.10.05-00.37.17:870][632]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.10.05-00.37.17:891][632]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.05-00.37.17:891][632]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.10.05-00.37.17:891][632]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D6A7C6CA00), frame # 495632
+[2020.10.05-00.37.17:891][632]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D6C2FE2480), frame # 495632
+[2020.10.05-00.37.17:962][632]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2020.10.05-00.37.17:991][632]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.05-00.37.17:991][632]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.135ms to complete.
+[2020.10.05-00.37.17:991][632]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.164
+[2020.10.05-00.37.37:365][600]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.05-00.37.48:515][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.05-00.37.48:569][601]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2020.10.05-00.37.51:307][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.10.05-00.37.51:361][601]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2020.10.05-00.38.09:501][447]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.10.05-00.43.11:249][689]BlueprintLog: New page: Compile FirstPersonCharacter
+[2020.10.05-00.43.13:940][689]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2020.10.05-00.43.19:333][723]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/FirstPersonCharacterF707E6884B7CAFD13142F2B89C183383.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2020.10.05-00.43.19:644][723]AssetCheck: New page: Asset Save: FirstPersonCharacter
+[2020.10.05-00.43.19:644][723]LogContentValidation: Display: Validating Blueprint /Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter
+[2020.10.05-00.45.05:980][ 51]LogEditorViewport: Clicking on Actor (LMB): myEnemy_C (myEnemy)
+[2020.10.05-00.45.12:126][343]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/myEnemy.myEnemy
+[2020.10.05-00.46.21:946][207]BlueprintLog: New page: Compile myEnemy
+[2020.10.05-00.46.25:203][207]LogUObjectHash: Compacting FUObjectHashTables data took   5.30ms
+[2020.10.05-00.46.52:584][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myEnemy" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/myEnemy.uasset" SILENT=true
+[2020.10.05-00.46.53:182][433]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/myEnemyD77A84664428892D5CE309AECE1A6E6B.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/myEnemy.uasset'
+[2020.10.05-00.46.53:315][433]AssetCheck: New page: Asset Save: myEnemy
+[2020.10.05-00.46.53:315][433]LogContentValidation: Display: Validating Blueprint /Game/myEnemy.myEnemy
+[2020.10.05-00.47.02:880][968]LogEditorViewport: Clicking on Actor (LMB): myMovableEnemy_C (myMovableEnemy)
+[2020.10.05-00.47.06:338][148]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/myMovableEnemy.myMovableEnemy
+[2020.10.05-00.48.32:029][773]BlueprintLog: New page: Compile myEnemy
+[2020.10.05-00.48.32:126][773]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.10.05-00.48.34:680][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myEnemy" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/myEnemy.uasset" SILENT=true
+[2020.10.05-00.48.34:923][854]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/myEnemy77BF64E3494C5E82C11DC4B96345CEAB.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/myEnemy.uasset'
+[2020.10.05-00.48.34:949][854]AssetCheck: New page: Asset Save: myEnemy
+[2020.10.05-00.48.34:950][854]LogContentValidation: Display: Validating Blueprint /Game/myEnemy.myEnemy
+[2020.10.05-00.49.29:415][ 50]LogEditorTransaction: Undo Move Node
+[2020.10.05-00.50.04:881][488]LogEditorTransaction: Undo Move Node
+[2020.10.05-00.50.12:425][773]BlueprintLog: New page: Compile myMovableEnemy
+[2020.10.05-00.50.13:487][773]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.10.05-00.50.13:514][773]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/myMovableEnemy.myMovableEnemy_C:ExecuteUbergraph_myMovableEnemy'!
+[2020.10.05-00.50.20:476][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/myMovableEnemy" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/myMovableEnemy.uasset" SILENT=true
+[2020.10.05-00.50.20:994][ 42]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/myMovableEnemyC863FB95462CBE508B5E59B8D6B05AB4.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/myMovableEnemy.uasset'
+[2020.10.05-00.50.21:118][ 42]AssetCheck: New page: Asset Save: myMovableEnemy
+[2020.10.05-00.50.21:119][ 42]LogContentValidation: Display: Validating Blueprint /Game/myMovableEnemy.myMovableEnemy
+[2020.10.05-00.50.26:849][283]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.05-00.50.26:900][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.05-00.50.26:900][283]PIE: New page: PIE session: FirstPersonExampleMap (Oct 4, 2020, 2:50:26 PM)
+[2020.10.05-00.50.26:901][283]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.10.05-00.50.26:978][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.077438s)
+[2020.10.05-00.50.27:014][283]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.10.05-00.50.27:014][283]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D72E315C00), frame # 526283
+[2020.10.05-00.50.27:014][283]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D729D1E700), frame # 526283
+[2020.10.05-00.50.27:015][283]LogPlayLevel: PIE: World Init took: (0.036366s)
+[2020.10.05-00.50.27:015][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.114180s)
+[2020.10.05-00.50.27:054][283]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2020.10.05-00.50.27:065][283]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.05-00.50.27:065][283]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.05-00.50.27:065][283]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.05-00.50.27:065][283]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.05-00.50.27:065][283]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.05-00.50.27:065][283]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.05-00.50.27:065][283]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.05-00.50.27:065][283]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.05-00.50.27:066][283]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.05-00.50.27:066][283]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.05-00.50.27:127][283]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.05-00.50.27:127][283]LogAudioMixer: Display: 1: FrontRight
+[2020.10.05-00.50.27:152][283]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.10.05-00.50.27:153][283]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.05-00.50.27:153][283]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.05-00.50.27:153][283]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.05-00.50.27:154][283]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.05-00.50.27:272][283]LogInit: FAudioDevice initialized.
+[2020.10.05-00.50.27:286][283]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.10.05-00.50.27:300][283]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.10.04-19.50.27
+[2020.10.05-00.50.27:300][283]LogWorld: Bringing up level for play took: 0.012910
+[2020.10.05-00.50.27:300][283]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2020.10.05-00.50.27:355][283]PIE: Server logged in
+[2020.10.05-00.50.27:356][283]PIE: Play in editor total start time 0.457 seconds.
+[2020.10.05-00.50.27:482][284]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.073785 > MaxSimulationTimeStep (0.050) for 'FirstPersonCharacter_C_1', movement 'Walking'
+[2020.10.05-00.50.30:000][334]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.10.05-00.50.30:240][348]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.10.05-00.50.31:765][436]LogNet: Browse: /Game/Game_Over
+[2020.10.05-00.50.31:766][436]LogLoad: LoadMap: /Game/Game_Over
+[2020.10.05-00.50.31:766][436]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.10.05-00.50.31:772][436]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.50.31:772][436]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.50.31:959][436]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D729D1E700), frame # 526436
+[2020.10.05-00.50.31:959][436]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D72E315C00), frame # 526436
+[2020.10.05-00.50.31:962][436]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.10.05-00.50.32:027][436]LogAIModule: Creating AISystem for world Game_Over
+[2020.10.05-00.50.32:027][436]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D760A30E00), frame # 526436
+[2020.10.05-00.50.32:027][436]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D75D6F4400), frame # 526436
+[2020.10.05-00.50.32:028][436]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.10.05-00.50.32:030][436]LogWorld: Bringing World /Game/UEDPIE_0_Game_Over.Game_Over up for play (max tick rate 60) at 2020.10.04-19.50.32
+[2020.10.05-00.50.32:030][436]LogWorld: Bringing up level for play took: 0.000584
+[2020.10.05-00.50.32:031][436]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.10.05-00.50.32:035][436]LogLoad: Took 0.268404 seconds to LoadMap(/Game/Game_Over)
+[2020.10.05-00.50.42:956][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.05-00.50.42:956][ 81]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game_Over
+[2020.10.05-00.50.42:956][ 81]LogWorld: UWorld::CleanupWorld for Game_Over, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.50.42:956][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.50.42:969][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.05-00.50.42:976][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.50.43:046][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.05-00.50.43:046][ 81]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D75D6F4400), frame # 527081
+[2020.10.05-00.50.43:046][ 81]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D760A30E00), frame # 527081
+[2020.10.05-00.50.43:050][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.10.05-00.50.43:130][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2020.10.05-00.51.29:435][253]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Start_Menu.Start_Menu
+[2020.10.05-00.51.29:482][253]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.10.05-00.51.32:070][253]LogSlate: Window 'Save Content' being destroyed
+[2020.10.05-00.51.32:192][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.10.05-00.51.33:238][253]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/FirstPersonExampleMap069B2DE0459223B00DB90B8B22101C8F.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.10.05-00.51.33:395][253]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 1.265
+[2020.10.05-00.51.35:611][253]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/FirstPersonExampleMap_BuiltData94D516F644D8A85DD9B93381621F2232.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.10.05-00.51.35:646][253]Cmd: MAP LOAD FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/Start_Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.05-00.51.35:647][253]LightingResults: New page: Lighting Build
+[2020.10.05-00.51.35:647][253]LoadErrors: New page: Loading map: Start_Menu.umap
+[2020.10.05-00.51.35:944][253]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.51.35:944][253]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.51.35:944][253]MapCheck: New page: Map Check
+[2020.10.05-00.51.35:944][253]LightingResults: New page: Lighting Build
+[2020.10.05-00.51.36:208][253]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D6C2FE2480), frame # 529253
+[2020.10.05-00.51.36:208][253]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D6A7C6CA00), frame # 529253
+[2020.10.05-00.51.36:215][253]LogUObjectHash: Compacting FUObjectHashTables data took   6.83ms
+[2020.10.05-00.51.36:237][253]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.05-00.51.36:237][253]LogAIModule: Creating AISystem for world Start_Menu
+[2020.10.05-00.51.36:237][253]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D6A7C6C200), frame # 529253
+[2020.10.05-00.51.36:238][253]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D72D106E80), frame # 529253
+[2020.10.05-00.51.36:281][253]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.10.05-00.51.36:310][253]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.05-00.51.36:310][253]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.138ms to complete.
+[2020.10.05-00.51.36:310][253]LogFileHelpers: Loading map 'Start_Menu' took 0.664
+[2020.10.05-00.51.36:389][253]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.05-00.51.36:390][253]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.10.05-00.51.37:722][253]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2020.10.05-00.51.50:121][936]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Start_Menu.Start_Menu:PersistentLevel.Start_Menu
+[2020.10.05-00.52.05:160][641]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Game_Over.Game_Over
+[2020.10.05-00.52.05:406][641]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.10.05-00.52.05:444][641]Cmd: MAP LOAD FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/Game_Over.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.05-00.52.05:447][641]LightingResults: New page: Lighting Build
+[2020.10.05-00.52.05:447][641]LoadErrors: New page: Loading map: Game_Over.umap
+[2020.10.05-00.52.05:469][641]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.52.05:469][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.52.05:522][641]LogWorld: UWorld::CleanupWorld for Start_Menu, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.52.05:522][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.52.05:522][641]MapCheck: New page: Map Check
+[2020.10.05-00.52.05:522][641]LightingResults: New page: Lighting Build
+[2020.10.05-00.52.05:561][641]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D72D106E80), frame # 530641
+[2020.10.05-00.52.05:561][641]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D6A7C6C200), frame # 530641
+[2020.10.05-00.52.05:564][641]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.10.05-00.52.05:614][641]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.10.05-00.52.05:656][641]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2020.10.05-00.52.05:660][641]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.05-00.52.05:660][641]LogAIModule: Creating AISystem for world Game_Over
+[2020.10.05-00.52.05:660][641]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D6DA1A7A00), frame # 530641
+[2020.10.05-00.52.05:660][641]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D7471E9580), frame # 530641
+[2020.10.05-00.52.05:706][641]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.10.05-00.52.05:764][641]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.05-00.52.05:764][641]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.137ms to complete.
+[2020.10.05-00.52.05:764][641]LogFileHelpers: Loading map 'Game_Over' took 0.321
+[2020.10.05-00.52.08:628][762]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Game_Over.Game_Over:PersistentLevel.Game_Over
+[2020.10.05-00.52.24:345][467]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Start_Menu.Start_Menu
+[2020.10.05-00.52.24:390][467]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.10.05-00.52.24:446][467]Cmd: MAP LOAD FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/Start_Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.05-00.52.24:446][467]LightingResults: New page: Lighting Build
+[2020.10.05-00.52.24:446][467]LoadErrors: New page: Loading map: Start_Menu.umap
+[2020.10.05-00.52.24:464][467]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.52.24:464][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.52.24:517][467]LogWorld: UWorld::CleanupWorld for Game_Over, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.52.24:517][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.52.24:517][467]MapCheck: New page: Map Check
+[2020.10.05-00.52.24:517][467]LightingResults: New page: Lighting Build
+[2020.10.05-00.52.24:557][467]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D7471E9580), frame # 531467
+[2020.10.05-00.52.24:557][467]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D6DA1A7A00), frame # 531467
+[2020.10.05-00.52.24:560][467]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.10.05-00.52.24:567][467]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.05-00.52.24:567][467]LogAIModule: Creating AISystem for world Start_Menu
+[2020.10.05-00.52.24:567][467]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D687D4CE00), frame # 531467
+[2020.10.05-00.52.24:567][467]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D75BE9F240), frame # 531467
+[2020.10.05-00.52.24:613][467]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2020.10.05-00.52.24:645][467]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.05-00.52.24:645][467]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.154ms to complete.
+[2020.10.05-00.52.24:645][467]LogFileHelpers: Loading map 'Start_Menu' took 0.199
+[2020.10.05-00.52.27:652][620]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Start_Menu.Start_Menu:PersistentLevel.Start_Menu
+[2020.10.05-00.52.46:388][484]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Game_Over.Game_Over
+[2020.10.05-00.52.46:435][484]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.10.05-00.52.46:436][484]Cmd: MAP LOAD FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/Game_Over.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.05-00.52.46:436][484]LightingResults: New page: Lighting Build
+[2020.10.05-00.52.46:436][484]LoadErrors: New page: Loading map: Game_Over.umap
+[2020.10.05-00.52.46:456][484]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.52.46:456][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.52.46:508][484]LogWorld: UWorld::CleanupWorld for Start_Menu, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.52.46:508][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.52.46:508][484]MapCheck: New page: Map Check
+[2020.10.05-00.52.46:508][484]LightingResults: New page: Lighting Build
+[2020.10.05-00.52.46:548][484]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D75BE9F240), frame # 532484
+[2020.10.05-00.52.46:548][484]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D687D4CE00), frame # 532484
+[2020.10.05-00.52.46:551][484]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.10.05-00.52.46:553][484]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.05-00.52.46:553][484]LogAIModule: Creating AISystem for world Game_Over
+[2020.10.05-00.52.46:553][484]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D62D435000), frame # 532484
+[2020.10.05-00.52.46:554][484]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D73CBBBD80), frame # 532484
+[2020.10.05-00.52.46:606][484]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.10.05-00.52.46:637][484]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.05-00.52.46:637][484]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.138ms to complete.
+[2020.10.05-00.52.46:637][484]LogFileHelpers: Loading map 'Game_Over' took 0.202
+[2020.10.05-00.52.50:385][649]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Game_Over.Game_Over:PersistentLevel.Game_Over
+[2020.10.05-00.53.03:969][230]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.05-00.53.19:981][960]BlueprintLog: New page: Compile Game_Over
+[2020.10.05-00.53.20:043][960]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.10.05-00.53.20:818][987]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Game_Over" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/Game_Over.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.05-00.53.20:881][987]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2020.10.05-00.53.21:005][987]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/Game_Over88F8339743EA4CAA52B5A8BB02577955.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/Game_Over.umap'
+[2020.10.05-00.53.21:057][987]LogFileHelpers: Saving map 'Game_Over' took 0.240
+[2020.10.05-00.53.21:082][987]AssetCheck: New page: Asset Save: Game_Over
+[2020.10.05-00.53.21:082][987]LogContentValidation: Display: Validating World /Game/Game_Over.Game_Over
+[2020.10.05-00.53.25:154][194]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Start_Menu.Start_Menu
+[2020.10.05-00.53.25:197][194]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.10.05-00.53.25:225][194]Cmd: MAP LOAD FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/Start_Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.05-00.53.25:225][194]LightingResults: New page: Lighting Build
+[2020.10.05-00.53.25:225][194]LoadErrors: New page: Loading map: Start_Menu.umap
+[2020.10.05-00.53.25:267][194]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.53.25:267][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.53.25:338][194]LogWorld: UWorld::CleanupWorld for Game_Over, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.53.25:338][194]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.53.25:338][194]MapCheck: New page: Map Check
+[2020.10.05-00.53.25:338][194]LightingResults: New page: Lighting Build
+[2020.10.05-00.53.25:380][194]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D73CBBBD80), frame # 534194
+[2020.10.05-00.53.25:380][194]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D62D435000), frame # 534194
+[2020.10.05-00.53.25:383][194]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.10.05-00.53.25:386][194]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.05-00.53.25:386][194]LogAIModule: Creating AISystem for world Start_Menu
+[2020.10.05-00.53.25:386][194]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D74D752800), frame # 534194
+[2020.10.05-00.53.25:386][194]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D7511C6FC0), frame # 534194
+[2020.10.05-00.53.25:433][194]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2020.10.05-00.53.25:463][194]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.05-00.53.25:464][194]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.344ms to complete.
+[2020.10.05-00.53.25:464][194]LogFileHelpers: Loading map 'Start_Menu' took 0.239
+[2020.10.05-00.53.27:936][307]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Start_Menu.Start_Menu:PersistentLevel.Start_Menu
+[2020.10.05-00.53.31:132][427]BlueprintLog: New page: Compile Start_Menu
+[2020.10.05-00.53.31:367][427]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.10.05-00.53.32:516][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Start_Menu" FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/Start_Menu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.10.05-00.53.32:563][469]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.10.05-00.53.32:768][469]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/Start_Menu6B7EB7A64CC2D04A67C3C1BC767D85FF.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/Start_Menu.umap'
+[2020.10.05-00.53.32:798][469]LogFileHelpers: Saving map 'Start_Menu' took 0.283
+[2020.10.05-00.53.32:816][469]AssetCheck: New page: Asset Save: Start_Menu
+[2020.10.05-00.53.32:816][469]LogContentValidation: Display: Validating World /Game/Start_Menu.Start_Menu
+[2020.10.05-00.53.34:827][565]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.05-00.53.34:847][565]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.05-00.53.34:847][565]PIE: New page: PIE session: Start_Menu (Oct 4, 2020, 2:53:34 PM)
+[2020.10.05-00.53.34:873][565]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Start_Menu
+[2020.10.05-00.53.34:875][565]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001489s)
+[2020.10.05-00.53.34:876][565]LogAIModule: Creating AISystem for world Start_Menu
+[2020.10.05-00.53.34:876][565]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D763573E00), frame # 534565
+[2020.10.05-00.53.34:876][565]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D73D2E11C0), frame # 534565
+[2020.10.05-00.53.34:876][565]LogPlayLevel: PIE: World Init took: (0.001721s)
+[2020.10.05-00.53.34:876][565]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Start_Menu.Start_Menu to /Game/UEDPIE_0_Start_Menu.Start_Menu (0.003411s)
+[2020.10.05-00.53.34:921][565]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.10.05-00.53.34:922][565]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.05-00.53.34:922][565]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.05-00.53.34:922][565]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.05-00.53.34:922][565]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.05-00.53.34:922][565]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.05-00.53.34:922][565]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.05-00.53.34:922][565]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.05-00.53.34:922][565]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.05-00.53.34:923][565]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.05-00.53.34:923][565]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.05-00.53.34:925][565]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.05-00.53.34:925][565]LogAudioMixer: Display: 1: FrontRight
+[2020.10.05-00.53.34:949][565]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.10.05-00.53.34:950][565]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.05-00.53.34:950][565]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.05-00.53.34:950][565]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.05-00.53.34:950][565]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.05-00.53.34:967][565]LogInit: FAudioDevice initialized.
+[2020.10.05-00.53.34:982][565]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.10.05-00.53.34:983][565]LogWorld: Bringing World /Game/UEDPIE_0_Start_Menu.Start_Menu up for play (max tick rate 60) at 2020.10.04-19.53.34
+[2020.10.05-00.53.34:983][565]LogWorld: Bringing up level for play took: 0.000289
+[2020.10.05-00.53.34:983][565]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2020.10.05-00.53.34:988][565]PIE: Server logged in
+[2020.10.05-00.53.34:989][565]PIE: Play in editor total start time 0.143 seconds.
+[2020.10.05-00.53.36:952][679]LogNet: Browse: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2020.10.05-00.53.36:952][679]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2020.10.05-00.53.36:952][679]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Start_Menu
+[2020.10.05-00.53.36:952][679]LogWorld: UWorld::CleanupWorld for Start_Menu, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.53.36:952][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.53.37:016][679]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D73D2E11C0), frame # 534679
+[2020.10.05-00.53.37:016][679]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D763573E00), frame # 534679
+[2020.10.05-00.53.37:018][679]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.10.05-00.53.37:036][679]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.10.05-00.53.37:036][679]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D7635E0400), frame # 534679
+[2020.10.05-00.53.37:036][679]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D7632EF9C0), frame # 534679
+[2020.10.05-00.53.37:037][679]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.10.05-00.53.37:098][679]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.10.04-19.53.37
+[2020.10.05-00.53.37:099][679]LogWorld: Bringing up level for play took: 0.058814
+[2020.10.05-00.53.37:100][679]LogLoad: Took 0.148352 seconds to LoadMap(/Game/FirstPersonBP/Maps/FirstPersonExampleMap)
+[2020.10.05-00.54.09:237][558]LogNet: Browse: /Game/Game_Over
+[2020.10.05-00.54.09:237][558]LogLoad: LoadMap: /Game/Game_Over
+[2020.10.05-00.54.09:237][558]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.10.05-00.54.09:238][558]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.54.09:238][558]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.54.09:344][558]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D7632EF9C0), frame # 536558
+[2020.10.05-00.54.09:344][558]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D7635E0400), frame # 536558
+[2020.10.05-00.54.09:347][558]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.10.05-00.54.09:367][558]LogAIModule: Creating AISystem for world Game_Over
+[2020.10.05-00.54.09:367][558]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D7635E1000), frame # 536558
+[2020.10.05-00.54.09:367][558]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D7632EE340), frame # 536558
+[2020.10.05-00.54.09:367][558]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.10.05-00.54.09:368][558]LogWorld: Bringing World /Game/UEDPIE_0_Game_Over.Game_Over up for play (max tick rate 60) at 2020.10.04-19.54.09
+[2020.10.05-00.54.09:368][558]LogWorld: Bringing up level for play took: 0.000489
+[2020.10.05-00.54.09:369][558]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.10.05-00.54.09:372][558]LogLoad: Took 0.134389 seconds to LoadMap(/Game/Game_Over)
+[2020.10.05-00.54.23:721][407]LogNet: Browse: /Game/Start_Menu
+[2020.10.05-00.54.23:721][407]LogLoad: LoadMap: /Game/Start_Menu
+[2020.10.05-00.54.23:721][407]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game_Over
+[2020.10.05-00.54.23:721][407]LogWorld: UWorld::CleanupWorld for Game_Over, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.54.23:721][407]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.54.23:793][407]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D7632EE340), frame # 537407
+[2020.10.05-00.54.23:793][407]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D7635E1000), frame # 537407
+[2020.10.05-00.54.23:797][407]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2020.10.05-00.54.23:798][407]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Start_Menu
+[2020.10.05-00.54.23:800][407]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001206s)
+[2020.10.05-00.54.23:801][407]LogAIModule: Creating AISystem for world Start_Menu
+[2020.10.05-00.54.23:801][407]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D763A2C400), frame # 537407
+[2020.10.05-00.54.23:801][407]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D73D2E3B00), frame # 537407
+[2020.10.05-00.54.23:801][407]LogPlayLevel: PIE: World Init took: (0.001316s)
+[2020.10.05-00.54.23:801][407]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Start_Menu.Start_Menu to /Game/UEDPIE_0_Start_Menu.Start_Menu (0.002677s)
+[2020.10.05-00.54.23:801][407]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.10.05-00.54.23:802][407]LogWorld: Bringing World /Game/UEDPIE_0_Start_Menu.Start_Menu up for play (max tick rate 60) at 2020.10.04-19.54.23
+[2020.10.05-00.54.23:802][407]LogWorld: Bringing up level for play took: 0.000248
+[2020.10.05-00.54.23:803][407]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.10.05-00.54.23:805][407]LogLoad: Took 0.084870 seconds to LoadMap(/Game/UEDPIE_0_Start_Menu)
+[2020.10.05-00.54.55:217][185]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.10.05-00.54.55:301][185]LogUObjectHash: Compacting FUObjectHashTables data took   7.14ms
+[2020.10.05-00.54.57:445][185]LogSlate: Window 'Message' being destroyed
+[2020.10.05-00.54.57:456][185]Message dialog closed, result: Yes, title: Message, text: This action will terminate your Play In Editor session.  Continue?
+[2020.10.05-00.54.57:457][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.05-00.54.57:457][185]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Start_Menu
+[2020.10.05-00.54.57:457][185]LogWorld: UWorld::CleanupWorld for Start_Menu, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.54.57:458][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.54.57:463][185]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.05-00.54.57:470][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.54.57:557][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.05-00.54.57:558][185]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D73D2E3B00), frame # 539185
+[2020.10.05-00.54.57:558][185]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D763A2C400), frame # 539185
+[2020.10.05-00.54.57:561][185]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.10.05-00.54.57:605][185]Cmd: MAP LOAD FILE="../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.05-00.54.57:855][185]LightingResults: New page: Lighting Build
+[2020.10.05-00.54.57:855][185]LoadErrors: New page: Loading map: FirstPersonExampleMap.umap
+[2020.10.05-00.54.57:880][185]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.54.57:880][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.54.57:934][185]LogWorld: UWorld::CleanupWorld for Start_Menu, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.54.57:934][185]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.54.57:934][185]MapCheck: New page: Map Check
+[2020.10.05-00.54.57:934][185]LightingResults: New page: Lighting Build
+[2020.10.05-00.54.57:975][185]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D7511C6FC0), frame # 539185
+[2020.10.05-00.54.57:975][185]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D74D752800), frame # 539185
+[2020.10.05-00.54.57:977][185]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.10.05-00.54.57:987][185]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.05-00.54.57:987][185]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.10.05-00.54.57:987][185]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D73D89B800), frame # 539185
+[2020.10.05-00.54.57:987][185]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D704AE5440), frame # 539185
+[2020.10.05-00.54.58:188][185]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.10.05-00.54.58:283][185]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.05-00.54.58:284][185]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.46ms to complete.
+[2020.10.05-00.54.58:284][185]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 2.980
+[2020.10.05-00.54.58:512][186]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2020.10.05-00.55.11:365][897]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap
+[2020.10.05-00.56.14:795][ 67]LogEditorTransaction: Undo Delete current selection
+[2020.10.05-00.56.23:141][445]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.05-00.56.29:055][746]BlueprintLog: New page: Compile FirstPersonExampleMap
+[2020.10.05-00.56.29:196][746]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.10.05-00.56.31:475][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.10.05-00.56.31:684][844]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/FirstPersonExampleMap2C0C82FD48FC9D2FE8E9DA81DC7F7502.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.10.05-00.56.31:727][844]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.299
+[2020.10.05-00.56.31:744][844]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2020.10.05-00.56.31:744][844]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.10.05-00.56.36:857][ 86]LogTemp: Repeating last play command: Selected Viewport
+[2020.10.05-00.56.36:874][ 86]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.05-00.56.36:874][ 86]PIE: New page: PIE session: FirstPersonExampleMap (Oct 4, 2020, 2:56:36 PM)
+[2020.10.05-00.56.36:874][ 86]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.10.05-00.56.36:893][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020417s)
+[2020.10.05-00.56.36:895][ 86]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.10.05-00.56.36:895][ 86]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D72DD97E00), frame # 544086
+[2020.10.05-00.56.36:895][ 86]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D72D146340), frame # 544086
+[2020.10.05-00.56.36:896][ 86]LogPlayLevel: PIE: World Init took: (0.002144s)
+[2020.10.05-00.56.36:896][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.022846s)
+[2020.10.05-00.56.36:938][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.10.05-00.56.36:939][ 86]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.05-00.56.36:939][ 86]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.05-00.56.36:939][ 86]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.05-00.56.36:939][ 86]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.05-00.56.36:939][ 86]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.05-00.56.36:939][ 86]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.05-00.56.36:939][ 86]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.05-00.56.36:939][ 86]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.05-00.56.36:940][ 86]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.05-00.56.36:940][ 86]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.05-00.56.36:943][ 86]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.05-00.56.36:943][ 86]LogAudioMixer: Display: 1: FrontRight
+[2020.10.05-00.56.36:968][ 86]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio(SST))
+[2020.10.05-00.56.36:968][ 86]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.05-00.56.36:968][ 86]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.05-00.56.36:968][ 86]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.05-00.56.36:969][ 86]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.05-00.56.37:009][ 86]LogInit: FAudioDevice initialized.
+[2020.10.05-00.56.37:022][ 86]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.10.05-00.56.37:025][ 86]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.10.04-19.56.37
+[2020.10.05-00.56.37:025][ 86]LogWorld: Bringing up level for play took: 0.001520
+[2020.10.05-00.56.37:025][ 86]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2020.10.05-00.56.37:042][ 86]PIE: Server logged in
+[2020.10.05-00.56.37:043][ 86]PIE: Play in editor total start time 0.17 seconds.
+[2020.10.05-00.56.41:431][325]LogNet: Browse: /Game/Game_Over
+[2020.10.05-00.56.41:431][325]LogLoad: LoadMap: /Game/Game_Over
+[2020.10.05-00.56.41:431][325]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.10.05-00.56.41:432][325]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.56.41:433][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.56.41:712][325]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D72D146340), frame # 544325
+[2020.10.05-00.56.41:712][325]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D72DD97E00), frame # 544325
+[2020.10.05-00.56.41:715][325]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.10.05-00.56.41:732][325]LogAIModule: Creating AISystem for world Game_Over
+[2020.10.05-00.56.41:732][325]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D72DD95C00), frame # 544325
+[2020.10.05-00.56.41:732][325]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D72DB4FB00), frame # 544325
+[2020.10.05-00.56.41:732][325]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.10.05-00.56.41:734][325]LogWorld: Bringing World /Game/UEDPIE_0_Game_Over.Game_Over up for play (max tick rate 60) at 2020.10.04-19.56.41
+[2020.10.05-00.56.41:734][325]LogWorld: Bringing up level for play took: 0.000658
+[2020.10.05-00.56.41:734][325]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.10.05-00.56.41:738][325]LogLoad: Took 0.306996 seconds to LoadMap(/Game/Game_Over)
+[2020.10.05-00.56.48:496][726]LogNet: Browse: /Game/Start_Menu
+[2020.10.05-00.56.48:496][726]LogLoad: LoadMap: /Game/Start_Menu
+[2020.10.05-00.56.48:496][726]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Game_Over
+[2020.10.05-00.56.48:497][726]LogWorld: UWorld::CleanupWorld for Game_Over, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.56.48:497][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.56.48:562][726]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D72DB4FB00), frame # 544726
+[2020.10.05-00.56.48:562][726]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D72DD95C00), frame # 544726
+[2020.10.05-00.56.48:565][726]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2020.10.05-00.56.48:573][726]LogAIModule: Creating AISystem for world Start_Menu
+[2020.10.05-00.56.48:573][726]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D72DD95400), frame # 544726
+[2020.10.05-00.56.48:574][726]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D77BE22340), frame # 544726
+[2020.10.05-00.56.48:574][726]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.10.05-00.56.48:576][726]LogWorld: Bringing World /Game/UEDPIE_0_Start_Menu.Start_Menu up for play (max tick rate 60) at 2020.10.04-19.56.48
+[2020.10.05-00.56.48:576][726]LogWorld: Bringing up level for play took: 0.000791
+[2020.10.05-00.56.48:576][726]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.10.05-00.56.48:579][726]LogLoad: Took 0.082672 seconds to LoadMap(/Game/Start_Menu)
+[2020.10.05-00.56.51:748][914]LogNet: Browse: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2020.10.05-00.56.51:748][914]LogLoad: LoadMap: /Game/FirstPersonBP/Maps/FirstPersonExampleMap
+[2020.10.05-00.56.51:748][914]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Start_Menu
+[2020.10.05-00.56.51:748][914]LogWorld: UWorld::CleanupWorld for Start_Menu, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.56.51:748][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.56.51:812][914]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D77BE22340), frame # 544914
+[2020.10.05-00.56.51:812][914]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D72DD95400), frame # 544914
+[2020.10.05-00.56.51:815][914]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.10.05-00.56.51:818][914]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.10.05-00.56.51:833][914]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014538s)
+[2020.10.05-00.56.51:835][914]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.10.05-00.56.51:835][914]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001D77D460200), frame # 544914
+[2020.10.05-00.56.51:835][914]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001D72DFA74C0), frame # 544914
+[2020.10.05-00.56.51:835][914]LogPlayLevel: PIE: World Init took: (0.002498s)
+[2020.10.05-00.56.51:835][914]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.017245s)
+[2020.10.05-00.56.51:835][914]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2020.10.05-00.56.51:846][914]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2020.10.04-19.56.51
+[2020.10.05-00.56.51:846][914]LogWorld: Bringing up level for play took: 0.009986
+[2020.10.05-00.56.51:932][914]LogLoad: Took 0.184458 seconds to LoadMap(/Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap)
+[2020.10.05-00.56.54:565][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.05-00.56.54:565][ 47]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2020.10.05-00.56.54:566][ 47]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.56.54:567][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.56.54:579][ 47]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.05-00.56.54:586][ 47]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.56.54:650][ 47]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.05-00.56.54:651][ 47]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001D72DFA74C0), frame # 545047
+[2020.10.05-00.56.54:651][ 47]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001D77D460200), frame # 545047
+[2020.10.05-00.56.54:656][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.10.05-00.56.54:756][ 48]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2020.10.05-00.57.36:068][971]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/HUD.HUD
+[2020.10.05-00.58.10:397][481]LogSlate: Window 'HUD' being destroyed
+[2020.10.05-00.58.10:431][481]LogSlate: Window 'HUD' being destroyed
+[2020.10.05-00.58.13:992][481]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.58.13:992][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.58.14:538][481]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.58.14:538][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.58.30:381][481]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.58.30:381][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.58.30:388][481]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.58.30:388][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.58.31:297][481]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.58.31:297][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.58.33:447][481]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.10.05-00.58.33:447][481]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.58.33:447][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.58.33:860][481]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/myMovableEnemy.myMovableEnemy_C:ExecuteUbergraph_myMovableEnemy'!
+[2020.10.05-00.58.33:860][481]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.10.05-00.58.33:860][481]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.58.33:860][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.58.33:982][481]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.58.33:982][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.58.34:208][481]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.58.34:208][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.58.34:217][481]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2020.10.05-00.58.34:217][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.05-00.58.49:620][594]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2020.10.05-00.58.52:084][594]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/FirstPersonExampleMap698F0E0B490ED7ABE76DFE8A3C55D2E9.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.10.05-00.58.53:854][594]LogSavePackage: Moving '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Saved/FirstPersonExampleMap_BuiltData142CC5304C49CDA71DDB45B1EBE0680A.tmp' to '../../../../../../Users/Khush/Documents/GitHub/UE4_FPS/UE4_FPS/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.10.05-00.58.53:907][594]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.05-00.58.53:907][594]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.10.05-00.58.53:907][594]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
